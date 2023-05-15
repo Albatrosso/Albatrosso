@@ -24,7 +24,7 @@ Interesting facts about me:
 My contacts:
 - Telegram: @NickPanormov
 - Email: nick.panormov@gmail.com
-- (LinkedIn)[https://www.linkedin.com/in/%D0%BD%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE-867871195?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwMZwEp7bTx63l%2FGnkOPAjg%3D%3D]
+- [LinkedIn](https://www.linkedin.com/in/%D0%BD%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE-867871195?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwMZwEp7bTx63l%2FGnkOPAjg%3D%3D)
 <!--
 **Albatrosso/Albatrosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
