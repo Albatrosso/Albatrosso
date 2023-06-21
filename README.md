@@ -8,7 +8,7 @@ At the moment I work for X5 Retail Group, which is one of the largest organizati
 Together with other guys from our company, we have created a lot of really cool things. CRM systems for quick response to customer requests, management of numerous outlets throughout the country, several client applications so that each person has the opportunity to quickly get groceries or other products from their favorite supermarket or restaurant, spending no more than five minutes on it
 
 
-If you want to know more about my experience, then write to me - I prefer Telegram, but I also have an email and LinkedIn profile, but response time may take time. All contacts at the end
+If you want to know more about my experience, then write to me - I prefer Telegram, but I also have an email and LinkedIn profile, but response may take time. All contacts at the end
 
 At the moment I am immersing myself in the architecture of information systems and developing leadership competencies in order to make myself and my colleagues happy every day
 
