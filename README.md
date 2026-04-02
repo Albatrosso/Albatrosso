@@ -4,7 +4,7 @@ My name is Nikita. I’m a full‑stack software engineer focused on web develop
 
 For the last 5+ years I’ve been building web applications of different complexity and domains. I’ve led teams for about three of those years and regularly help other teams as a technical consultant and mentor.
 
-Right now I work at LEDGERTECH on **Tokenbooks** – a crypto accounting product.
+Right now I work on **Tokenbooks** – a crypto accounting product.
 
 My main stack:
 - Frontend: TypeScript, React, Next.js
